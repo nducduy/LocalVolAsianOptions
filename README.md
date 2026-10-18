@@ -1,7 +1,7 @@
 # LocalVolAsianOptions
 
 Code for J. L. Kirkby and D. Nguyen, *Average Price Asian Options: A PDE Method for Local Volatility*.
-This folder reproduces every table and figure of the paper (`paper/AsianPDE_V6.tex`).
+This folder reproduces every table and figure of the paper.
 
 ## Requirements
 
